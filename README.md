@@ -106,4 +106,4 @@ Go to http://127.0.0.1:8000/admin to access the Django Admin interface and sign 
 
 ### Copyright and License
 
-Copyright © 2024 Bob's Programming Academy. Code released under the MIT license.
+Copyright © 2024 Wisdom Dzontoh. Code released under the MIT license.
